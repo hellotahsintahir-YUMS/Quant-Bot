@@ -1,0 +1,10 @@
+pandas
+numpy
+yfinance
+ta
+streamlit
+plotly
+bcrypt
+pytest
+python-dotenv
+scikit-learn
